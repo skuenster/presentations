@@ -1,7 +1,7 @@
 <!-- .slide: class="title" -->
 
 ## Esri-DE Startup Program
-
+![separator](images/separator.png)
 `Stephan Künster`
 
 ---
