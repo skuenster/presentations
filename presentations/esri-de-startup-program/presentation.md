@@ -103,11 +103,11 @@ map.watch('basemap.title', function(value) {
 
 ## Questions?
 
-**Help us to improve** filling out the survey
+**Text** Text
 
-John Gravois ([@geogangster](https://twitter.com/geogangster)) & Rene Rubalcava ([@odoenet](https://twitter.com/odoenet))
+Stephan Künster ([@skuenster](https://twitter.com/skuenster))
 
-Slides: [github.com/odoe/presentations](https://github.com/odoe/presentations)
+Slides: [github.com/skuenster/skuenster.github.io/presentations](https://github.com/skuenster/skuenster.github.io/presentations)
 
 ---
 
