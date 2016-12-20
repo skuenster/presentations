@@ -1,14 +1,12 @@
 <!-- .slide: class="title" -->
 
-## Esri-DE Startup Program
+## Title
 
 ![separator](images/separator.png)
 
-`Stephan Künster`
+`Author`
 
 ---
-
-<!-- .slide: class="agenda" 
 
 ## Agenda
 
@@ -17,7 +15,6 @@
 - C
 
 ---
--->
 
 <!-- .slide: class="section" -->
 
@@ -28,19 +25,8 @@
 ## Slide 1
 
 - text
-- new [Link](//www.arcgis.com) with text
-
----
-
-## Slide 2
-
-- text 2
-
----
-
-## Slide 3
-
-- text 3
+- [Link](//www.arcgis.com) with text after
+- [`Link 2`](//www.arcgis.com)
 
 ---
 
@@ -52,41 +38,28 @@
 
 ## Slide 1
 
-- text
+text
+- `highlighted text`
 
 ---
 
 ## Slide 2
 
-Classes
-- `esri/core/Accessor`
-- `esri/core/Promise`
-- `esri/core/Loadable`
-- `esri/core/Collection`
+- text
+ - subtext
+ 
+![Picture-text](images/esri-startup-program.jpg)
 
 ---
 
 ## Slide 3
 
-- text
- - subtext
- 
-![Esri Startup Program](images/esri-startup-program.jpg)
+- text _"text"_
+- text **_text_**-text, text `text()`
 
 ---
 
 ## Slide 4
-
-- text _"just need to know what properties for a class"_
-
-- no more **_property_**-change events, use `watch()`
-- in 3.x, listen for [`extent-change`](https://developers.arcgis.com/javascript/jsapi/map-amd.html#event-extent-change) event.
-- in 4.0 `extent` watchers will be call very often
-
----
-
-## Slide 5
-
 
 ```js
 var view = new MapView({ map: map });
@@ -104,7 +77,6 @@ map.watch('basemap.title', function(value) {
 
 ---
 
-
 ## Questions?
 
 **Text** Text
@@ -113,7 +85,3 @@ Stephan Künster ([@skuenster](https://twitter.com/skuenster))
 
 Slides: [github.com/skuenster/presentations](https://github.com/skuenster/presentations)
 
----
-
-
-<!-- .slide: class="end" -->
