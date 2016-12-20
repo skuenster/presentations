@@ -68,6 +68,8 @@ Classes
 
 - text
  - subtext
+ 
+![Esri Startup Program](images/esri-startup-program.jpg)
 
 ---
 
