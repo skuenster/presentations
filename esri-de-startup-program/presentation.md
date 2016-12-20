@@ -2,7 +2,9 @@
 
 ## Esri-DE Startup Program
 
-**Stephan Künster**
+---
+
+'Stephan Künster'
 
 ---
 
