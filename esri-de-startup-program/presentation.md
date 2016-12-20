@@ -107,7 +107,7 @@ map.watch('basemap.title', function(value) {
 
 Stephan Künster ([@skuenster](https://twitter.com/skuenster))
 
-Slides: [github.com/skuenster/skuenster.github.io/presentations](https://github.com/skuenster/skuenster.github.io/presentations)
+Slides: [github.com/skuenster/presentations](https://github.com/skuenster/presentations)
 
 ---
 
