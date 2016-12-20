@@ -26,7 +26,7 @@
 
 - text
 - [Link](//www.arcgis.com) with text after
-- [`Link 2`](//www.arcgis.com)
+- [`Link highlighted`](//www.arcgis.com)
 
 ---
 
@@ -81,7 +81,7 @@ map.watch('basemap.title', function(value) {
 
 **Text** Text
 
-Stephan Künster ([@skuenster](https://twitter.com/skuenster))
+Author ([@twitter-account](https://twitter.com/twitter-account))
 
-Slides: [github.com/skuenster/presentations](https://github.com/skuenster/presentations)
+Slides: [github.com/[Author]/presentations](https://github.com/[Author]/presentations)
 
