@@ -1,10 +1,10 @@
 <!-- .slide: class="title" -->
 
-## Title
+## ArcGIS API for JavaScript 4.2 und Web AppBuilder
 
 ![separator](images/separator.png)
 
-`Author`
+`Stephan Künster, Simon Geigenberger`
 
 ---
 
