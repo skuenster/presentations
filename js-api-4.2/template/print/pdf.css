@@ -1,0 +1,24 @@
+
+.reveal code {
+  font-family: monospace !important;
+}
+
+.reveal pre {
+  font-family: monospace !important;
+}
+
+.reveal pre code {
+  font-family: monospace !important;
+}
+
+.reveal .slide-background {
+  background: url(devsummit-background.png);
+}
+
+.reveal .slide-background.title {
+  background: url(devsummit-title.png);
+}
+
+.reveal .slide-background.section {
+  background: url(devsummit-section.png);
+}
