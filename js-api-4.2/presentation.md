@@ -1,6 +1,7 @@
 <!-- .slide: class="title" -->
 
-## ArcGIS API for JavaScript 4.2 und Web AppBuilder
+## ArcGIS API for JavaScript 4.2 
+und Web AppBuilder
 
 ![separator](images/separator.png)
 
